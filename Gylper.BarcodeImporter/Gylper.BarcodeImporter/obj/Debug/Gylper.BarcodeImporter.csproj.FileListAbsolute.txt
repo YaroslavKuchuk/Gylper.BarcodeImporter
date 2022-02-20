@@ -10,3 +10,4 @@ D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeI
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.csproj.CopyComplete
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.exe
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.pdb
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.MainForm.resources
