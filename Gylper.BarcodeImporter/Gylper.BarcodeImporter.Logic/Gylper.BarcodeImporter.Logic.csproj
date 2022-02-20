@@ -44,11 +44,5 @@
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Gylper.BarcodeImporter.Data\Gylper.BarcodeImporter.Data.csproj">
-      <Project>{e5d16480-367e-4279-a2a7-fb8e10711923}</Project>
-      <Name>Gylper.BarcodeImporter.Data</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
