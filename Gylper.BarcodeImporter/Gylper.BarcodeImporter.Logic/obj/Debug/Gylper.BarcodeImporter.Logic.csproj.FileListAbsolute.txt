@@ -1,0 +1,9 @@
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\bin\Debug\Gylper.BarcodeImporter.Logic.dll
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\bin\Debug\Gylper.BarcodeImporter.Logic.pdb
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\bin\Debug\Gylper.BarcodeImporter.Data.dll
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\bin\Debug\Gylper.BarcodeImporter.Data.pdb
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\obj\Debug\Gylper.BarcodeImporter.Logic.csprojAssemblyReference.cache
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\obj\Debug\Gylper.BarcodeImporter.Logic.csproj.CoreCompileInputs.cache
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\obj\Debug\Gylper.BarcodeImporter.Logic.csproj.CopyComplete
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\obj\Debug\Gylper.BarcodeImporter.Logic.dll
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter.Logic\obj\Debug\Gylper.BarcodeImporter.Logic.pdb
