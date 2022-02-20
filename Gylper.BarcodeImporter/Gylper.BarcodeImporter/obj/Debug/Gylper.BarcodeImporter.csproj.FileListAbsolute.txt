@@ -1,8 +1,6 @@
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\Gylper.BarcodeImporter.exe.config
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\Gylper.BarcodeImporter.exe
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\Gylper.BarcodeImporter.pdb
-D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\Gylper.BarcodeImporter.Logic.dll
-D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\Gylper.BarcodeImporter.Logic.pdb
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.csprojAssemblyReference.cache
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.Properties.Resources.resources
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.csproj.GenerateResource.cache
@@ -11,3 +9,7 @@ D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeI
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.exe
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.pdb
 D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\obj\Debug\Gylper.BarcodeImporter.MainForm.resources
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\EntityFramework.dll
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\EntityFramework.xml
+D:\Projects\Gylper\Gylper.BarcodeImporter\Gylper.BarcodeImporter\Gylper.BarcodeImporter\bin\Debug\EntityFramework.SqlServer.xml

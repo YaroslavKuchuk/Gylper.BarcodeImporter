@@ -33,8 +33,17 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +55,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\Barcode.cs">
+      <DependentUpon>GymsoftData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\GymsoftData.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GymsoftData.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\GymsoftData.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GymsoftData.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Data\GymsoftData.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GymsoftData.edmx</DependentUpon>
+    </Compile>
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +93,14 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EntityDeploy Include="Data\GymsoftData.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>GymsoftData.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Data\GymsoftData.edmx.diagram">
+      <DependentUpon>GymsoftData.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -80,10 +115,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Gylper.BarcodeImporter.Logic\Gylper.BarcodeImporter.Logic.csproj">
-      <Project>{c06e700a-7ddd-416d-aa9a-a996a1f32461}</Project>
-      <Name>Gylper.BarcodeImporter.Logic</Name>
-    </ProjectReference>
+    <Content Include="Data\GymsoftData.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>GymsoftData.Context.cs</LastGenOutput>
+      <DependentUpon>GymsoftData.edmx</DependentUpon>
+    </Content>
+    <Content Include="Data\GymsoftData.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GymsoftData.edmx</DependentUpon>
+      <LastGenOutput>GymsoftData.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
